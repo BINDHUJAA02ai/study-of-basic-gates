@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### EXPERIMENT 1: STUDY OF BASIC DIGITAL ICs AND VERIFICATION OF TRUTH TABLE FOR DIFFERENT LOGIC GATES,REALIZATION USING VERILOG
 
 **AIM:** 
 
@@ -78,8 +78,7 @@ assign f7=~(a^b);
 endmodule
 ```
 ```
-Developed by:S.Bindhujaa
-RegisterNumber:24901119
+
 ```
 **Logic symbol & Truthtable**
 
