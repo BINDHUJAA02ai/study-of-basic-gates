@@ -1,5 +1,11 @@
 ### EXPERIMENT 1: STUDY OF BASIC DIGITAL ICs AND VERIFICATION OF TRUTH TABLE FOR DIFFERENT LOGIC GATES,REALIZATION USING VERILOG
 
+
+
+Developed by :Bindhujaa.S
+Register no : 24901119
+
+
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
