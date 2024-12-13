@@ -73,6 +73,7 @@ Y= A⊕B
 
 
 **Logic symbol & Truthtable**
+
 ![WhatsApp Image 2024-12-04 at 22 08 03_b975305e](https://github.com/user-attachments/assets/0d83837d-dd0c-41ab-b028-2dc68ca39bd8)
 
 **RTL realization Output:** 
