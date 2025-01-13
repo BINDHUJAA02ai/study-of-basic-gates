@@ -69,19 +69,21 @@ Y= A⊕B
 
 **PROGRAM**
 
-![Screenshot 2024-12-12 181023](https://github.com/user-attachments/assets/866f260c-4240-4562-945e-b5a31484ad42)
+![Screenshot 2025-01-13 183634](https://github.com/user-attachments/assets/89734d68-c16c-486a-a642-8815057a1fa5)
+
 
 
 **Logic symbol & Truthtable**
 
-![WhatsApp Image 2024-12-04 at 22 08 03_b975305e](https://github.com/user-attachments/assets/0d83837d-dd0c-41ab-b028-2dc68ca39bd8)
+![Screenshot 2025-01-13 183655](https://github.com/user-attachments/assets/7ba41e28-b187-46a0-903e-dceb34dcfe78)
+
 
 **RTL realization Output:** 
 ![exp1](https://github.com/user-attachments/assets/c279d9f9-11e8-4596-afc6-572f40e7ada3)
 
 **RTL**
 
-![exp1 (2)](https://github.com/user-attachments/assets/cc918cc9-a6c7-4e67-9b7d-6290e6c5ed64)
+![Screenshot 2025-01-13 183730](https://github.com/user-attachments/assets/0fcd7506-35d2-4dd1-81bb-c5a399c7674d)
 
 **Result:**
 
